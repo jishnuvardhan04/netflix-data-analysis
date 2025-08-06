@@ -22,7 +22,7 @@ This project analyzes a user's Netflix viewing activity using Python. It explore
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-data-analysis.git
+   git clone https://github.com/jishnuvardhan04/netflix-data-analysis.git
    ```
 2. Open the `.ipynb` notebook using Jupyter
 3. Upload your Netflix viewing activity data (CSV format)
@@ -40,4 +40,4 @@ This project analyzes a user's Netflix viewing activity using Python. It explore
 
 ## Author
 
-Your Name – [@yourusername](https://github.com/yourusername)
+Jishnu Vardhan – [@jishnuvardhan04](https://github.com/jishnuvardhan04)
