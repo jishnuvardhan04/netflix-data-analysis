@@ -118,7 +118,7 @@ Release trend line plot
 
 ---
 
-How to Run
+ How to Run
 
 git clone https://github.com/yourusername/netflix-data-analysis
 pip install -r requirements.txt
